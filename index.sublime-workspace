@@ -1,0 +1,287 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"arra",
+				"array_map"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"video",
+				"videoId"
+			],
+			[
+				"array",
+				"array_push"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"v",
+				"video3"
+			],
+			[
+				"vide",
+				"video1"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"ov",
+				"overflow-x"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"em",
+				"embed\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "stall",
+		"selected_items":
+		[
+			[
+				"stall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Public/Desktop/Google Chrome.lnk",
+		"/C/Users/MaiconGomes/Documents/sociedadedocrescimento/index.php",
+		"/C/wamp64/www/json.php",
+		"/C/wamp64/www/-Desafio-Side-Project/index.html",
+		"/C/wamp64/www/-Desafio-Side-Project/classes.php",
+		"/C/Users/MaiconGomes/Desktop/jason1.php",
+		"/C/Users/MaiconGomes/Documents/GitHub/-Desafio-Side-Project/classes.php",
+		"/C/Users/MaiconGomes/Documents/GitHub/-Desafio-Side-Project/style.css",
+		"/C/Users/MaiconGomes/Documents/GitHub/-Desafio-Side-Project/index.html",
+		"/C/wamp64/www/index.html",
+		"/C/wamp64/www/style.css",
+		"/C/wamp64/www/MVC/app/controllers/PagesController.php",
+		"/C/wamp64/www/MVC/index.php",
+		"/C/wamp64/www/exemplosphpoo/cap5/index.php",
+		"/C/wamp64/www/exemplosphpoo/cap2/classes/OrcavelInterface.php",
+		"/C/wamp64/www/exemplosphpoo/framework/Lib/Livro/Widgets/Form/Button.php",
+		"/C/wamp64/www/exemplosphpoo/framework/Lib/Livro/Control/ActionInterface.php",
+		"/C/Users/MaiconGomes/Desktop/exemplosphpoo/framework/Lib/Livro/Database/Connection.php",
+		"/C/Users/MaiconGomes/Desktop/exemplosphpoo/cap1/list.php",
+		"/C/Users/MaiconGomes/Desktop/exemplosphpoo/phpinfo.php",
+		"/C/Users/MaiconGomes/Desktop/exemplosphpoo/cap1/form_gravar.php",
+		"/C/Users/MaiconGomes/Desktop/exemplosphpoo/framework/Lib/Livro/Control/ActionInterface.php",
+		"/C/Users/MaiconGomes/Desktop/exemplosphpoo/framework/Lib/Livro/Control/Page.php",
+		"/C/Users/MaiconGomes/Desktop/exemplosphpoo/framework/Lib/Livro/Log/LoggerXML.php",
+		"/C/Users/MaiconGomes/Desktop/exemplosphpoo/framework/Lib/Livro/Log/LoggerTXT.php",
+		"/C/Users/MaiconGomes/Desktop/exemplosphpoo/framework/Lib/Livro/Log/LoggerHTML.php",
+		"/C/Users/MaiconGomes/Desktop/exemplosphpoo/framework/Lib/Livro/Control/Action.php",
+		"/C/wamp64/www/teste/index1.php",
+		"/C/wamp64/www/teste/index.php",
+		"/C/wamp64/bin/apache/apache2.4.27/conf/extra/httpd-vhosts.conf",
+		"/C/wamp64/www/teste/index.html",
+		"/C/wamp64/www/index.php",
+		"/C/wamp64/scripts/refresh.php",
+		"/C/wamp64/bin/apache/apache2.4.27/conf/httpd.conf"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
